@@ -20,15 +20,15 @@ Awesome Decentralized Database is a curated list of the best decentralized datab
 
 ## Relational Databases
 ### Blockchain
-- [AergoLite](https://github.com/aergoio/aergolite) - AergoLite: SQLite with Blockchain
+- [AergoLite](https://github.com/aergoio/aergolite) - AergoLite: SQLite with Blockchain.
 - [Catena](https://github.com/pixelspark/catena) - Catena is a distributed database based on a blockchain, accessible using SQL.
-- [Daisy](https://github.com/ivoras/daisy) - A private proof of authority blockchain where blocks are SQLite databases, in Go
-- [Tableland](https://github.com/tablelandnetwork/go-tableland/) - A decentralized SQLite database that provides provides wallet-based authentication, row-level permissions, and high performance at a low cost.
+- [Daisy](https://github.com/ivoras/daisy) - Private proof of authority blockchain where blocks are SQLite databases, in Go.
+- [Tableland](https://github.com/tablelandnetwork/go-tableland/) - Decentralized SQLite database that provides provides wallet-based authentication, row-level permissions, and high performance at a low cost.
 
 ### IPFS
-- [go-bs-sqlite3](https://github.com/ipfs/go-bs-sqlite3) - IPFS blockstore
-- [ipfs-sqlite-block-store](https://github.com/Actyx/ipfs-sqlite-block-store) - IPFS blockstore
-- [ipfs-sqlite-cli](https://github.com/jtsmedley/ipfs-sqlite-cli) - CLI utility to backup and restore a database from IPFS. Requires local instance of GO-IPFS running
+- [go-bs-sqlite3](https://github.com/ipfs/go-bs-sqlite3) - IPFS blockstore.
+- [ipfs-sqlite-block-store](https://github.com/Actyx/ipfs-sqlite-block-store) - IPFS blockstore.
+- [ipfs-sqlite-cli](https://github.com/jtsmedley/ipfs-sqlite-cli) - CLI utility to backup and restore a database from IPFS. Requires local instance of GO-IPFS running.
 
 ### Peer-to-Peer
 - [CR-SQLite](https://github.com/vlcn-io/cr-sqlite) - CR-SQLite is a run-time loadable extension for SQLite and libSQL. It allows merging different SQLite databases together that have taken independent writes.
@@ -39,34 +39,34 @@ Awesome Decentralized Database is a curated list of the best decentralized datab
 - [ha-sqlite](https://github.com/uglyer/ha-sqlite) - High-availability sqlite database service based on raft.
 - [raft-sqlite](https://github.com/shettyh/raft-sqlite) - Raft backend using SQLite.
 - [ReSqlite](https://github.com/jervisfm/resqlite) - ReSqlite is an extension of Sqlite that aims to add basic replication functionality to Sqlite database.
-- [tqlite](https://github.com/minghsu0107/tqlite) - tqlite is a distributed SQL database with replication, fault-tolerance, tunable consistency and leader election.
+- [tqlite](https://github.com/minghsu0107/tqlite) - Distributed SQL database with replication, fault-tolerance, tunable consistency and leader election.
 
 ## Real-time Databases
 ### Peer-to-Peer
-- [Redwood](https://github.com/redwood/redwood) - A highly-configurable, distributed, realtime database that manages a state tree shared among many peers.
+- [Redwood](https://github.com/redwood/redwood) - Highly-configurable, distributed, realtime database that manages a state tree shared among many peers.
 
 ## NoSQL Databases
 ### Blockchain
-- [BigchainDB ](https://github.com/bigchaindb/bigchaindb) - BigchainDB is the blockchain database. 
-- [Bluzelle ](https://github.com/bluzelle/curium) - The decentralized database for Web 3.0. Bluzelle uses blockchain and edge computing for greater performance and security.
-- [ComposeDB ](https://github.com/ceramicstudio/js-composedb) - A decentralized, composable graph database to build interoperable applications on Ceramic
-- [The Graph](https://github.com/graphprotocol/contracts) - The Graph is an indexing protocol for querying networks like Ethereum, IPFS, Polygon, and other blockchains. Anyone can build and Publish open APIs, called subgraphs, making data easily accessible.
+- [BigchainDB ](https://github.com/bigchaindb/bigchaindb) - Blockchain database. 
+- [Bluzelle ](https://github.com/bluzelle/curium) - Decentralized database for Web 3.0 using blockchain and edge computing for greater performance and security.
+- [ComposeDB ](https://github.com/ceramicstudio/js-composedb) - Decentralized, composable graph database to build interoperable applications on Ceramic.
+- [The Graph](https://github.com/graphprotocol/contracts) - Indexing protocol for querying networks like Ethereum, IPFS, Polygon, and other blockchains.
 
 ### Peer-to-Peer
-- [db3](https://github.com/dbpunk-labs/db3) - DB3 Network is an open-source and decentralized firebase firestore alternative for building fully decentralized dApps quickly with minimal engineering effort.
-- [OrbitDB](https://github.com/orbitdb/orbit-db) - OrbitDB is a serverless, distributed, peer-to-peer database.
-- [WeaveDB](https://github.com/weavedb/weavedb) - WeaveDB is a NoSQL database powered by Warp Contracts (SmartWeave) on the Arweave blockchain.
+- [db3](https://github.com/dbpunk-labs/db3) - Open-source and decentralized firebase firestore alternative for building fully decentralized dApps quickly with minimal engineering effort.
+- [OrbitDB](https://github.com/orbitdb/orbit-db) - Serverless, distributed, peer-to-peer database.
+- [WeaveDB](https://github.com/weavedb/weavedb) - NoSQL database powered by Warp Contracts (SmartWeave) on the Arweave blockchain.
 
 ## Encryption and Security
-- [FreeSQLiteEncryption](https://github.com/shenghe/FreeSQLiteEncryption) - An add-on to the public domain version of SQLite that allows an application to read and write encrypted database files
+- [FreeSQLiteEncryption](https://github.com/shenghe/FreeSQLiteEncryption) - Add-on to the public domain version of SQLite that allows an application to read and write encrypted database files.
 - [Lit](https://github.com/LIT-Protocol/js-sdk) - Create and manage distributed cryptographic key-pairs for condition-based encryption and programmatic signing.
-- [sqlcipher](https://github.com/sqlcipher/sqlcipher) - A standalone fork of the SQLite database library that adds 256 bit AES encryption of database files and other security features.
-- [sqlite_codec](https://github.com/abc34/sqlite_codec) - qlite3 with built-in transparent encryption based on mbedtls library
+- [sqlcipher](https://github.com/sqlcipher/sqlcipher) - Fork of the SQLite database library that adds 256 bit AES encryption of database files and other security features.
+- [sqlite_codec](https://github.com/abc34/sqlite_codec) - qlite3 with built-in transparent encryption based on mbedtls library.
 
 ## Learning
-- [Awesome Database Learning](https://github.com/pingcap/awesome-database-learning) - Awesome Database Learning List
-- [Learn GraphQL](https://github.com/hasura/learn-graphql) - Real world GraphQL tutorials for frontend developers with deadlines!
-- [Learn SQL](https://github.com/WebDevSimplified/Learn-SQL) - Exercises for beginners to learn SQL
+- [Awesome Database Learning](https://github.com/pingcap/awesome-database-learning) - Another _awesome list_ for database learning.
+- [Learn GraphQL](https://github.com/hasura/learn-graphql) - Learn real world GraphQL, quickly.
+- [Learn SQL](https://github.com/WebDevSimplified/Learn-SQL) - Practice and learn SQL from the basics.
 
 ## Other Awesome Lists
 - [Awesome CRDT](https://github.com/alangibson/awesome-crdt)
