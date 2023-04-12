@@ -43,6 +43,7 @@ Awesome Decentralized Database is a curated list of the best decentralized datab
 
 ## Real-time Databases
 ### Peer-to-Peer
+- [Fireproof](https://github.com/fireproof-storage/fireproof) - Fireproof is a decentralized realtime database that stores documents using prolly-trees.
 - [Redwood](https://github.com/redwood/redwood) - Highly-configurable, distributed, realtime database that manages a state tree shared among many peers.
 
 ## NoSQL Databases
