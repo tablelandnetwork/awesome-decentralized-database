@@ -15,6 +15,7 @@ Awesome Decentralized Database is a curated list of the best decentralized datab
   - [Blockchain](#blockchain-1)
   - [Peer-to-Peer](#peer-to-peer-2)
 - [Encryption and Security](#encryption-and-security)
+- [Data Extraction and Tools](#data-extraction-and-tools)
 - [Learning](#learning)
 - [Other Awesome Lists](#other-awesome-lists)
 
@@ -49,8 +50,8 @@ Awesome Decentralized Database is a curated list of the best decentralized datab
 ## NoSQL Databases
 ### Blockchain
 - [BigchainDB ](https://github.com/bigchaindb/bigchaindb) - Blockchain database. 
-- [Bluzelle ](https://github.com/bluzelle/curium) - Decentralized database for Web 3.0 using blockchain and edge computing for greater performance and security.
-- [ComposeDB ](https://github.com/ceramicstudio/js-composedb) - Decentralized, composable graph database to build interoperable applications on Ceramic.
+- [Bluzelle](https://github.com/bluzelle/curium) - Decentralized database for Web 3.0 using blockchain and edge computing for greater performance and security.
+- [ComposeDB](https://github.com/ceramicstudio/js-composedb) - Decentralized, composable graph database to build interoperable applications on Ceramic.
 - [The Graph](https://github.com/graphprotocol/contracts) - Indexing protocol for querying networks like Ethereum, IPFS, Polygon, and other blockchains.
 
 ### Peer-to-Peer
@@ -62,7 +63,10 @@ Awesome Decentralized Database is a curated list of the best decentralized datab
 - [FreeSQLiteEncryption](https://github.com/shenghe/FreeSQLiteEncryption) - Add-on to the public domain version of SQLite that allows an application to read and write encrypted database files.
 - [Lit](https://github.com/LIT-Protocol/js-sdk) - Create and manage distributed cryptographic key-pairs for condition-based encryption and programmatic signing.
 - [sqlcipher](https://github.com/sqlcipher/sqlcipher) - Fork of the SQLite database library that adds 256 bit AES encryption of database files and other security features.
-- [sqlite_codec](https://github.com/abc34/sqlite_codec) - qlite3 with built-in transparent encryption based on mbedtls library.
+- [sqlite_codec](https://github.com/abc34/sqlite_codec) - sqlite3 with built-in transparent encryption based on mbedtls library.
+
+## Data Extraction and Tools
+- [Singer](https://www.singer.io/) - An open source standard for moving data between databases, web APIs, files, queues, and anything else that involves data extraction and consolidation.
 
 ## Learning
 - [Awesome Database Learning](https://github.com/pingcap/awesome-database-learning) - Another _awesome list_ for database learning.
