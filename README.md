@@ -71,6 +71,7 @@ Awesome Decentralized Database is a curated list of the best decentralized datab
 ## Encryption and Security
 
 - [FreeSQLiteEncryption](https://github.com/shenghe/FreeSQLiteEncryption) - Add-on to the public domain version of SQLite that allows an application to read and write encrypted database files.
+- [Threshold Network](https://www.nucypher.com/) - Access control with end-to-end encrypted data sharing and communication without the need to trust a centralized authority.
 - [Lit](https://github.com/LIT-Protocol/js-sdk) - Create and manage distributed cryptographic key-pairs for condition-based encryption and programmatic signing.
 - [sqlcipher](https://github.com/sqlcipher/sqlcipher) - Fork of the SQLite database library that adds 256 bit AES encryption of database files and other security features.
 - [sqlite_codec](https://github.com/abc34/sqlite_codec) - sqlite3 with built-in transparent encryption based on mbedtls library.
